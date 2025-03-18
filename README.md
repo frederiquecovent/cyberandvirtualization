@@ -26,6 +26,7 @@ Het project heeft als doel een stabiele, veilige en efficiënte IT-infrastructuu
 - Aankoop van tablets voor dienstvoertuigen
 - Implementatie van VoIP-telefonie
 - Vernieuwing en leasing van intern netwerkapparatuur met toekomstgerichte migratie naar IPv6.
+- Reduntatie voorzien in het netwerk.
 - Migratie van Gmail naar Office 365
 - Implementatie van security-maatregelen zoals multifactor authenticatie (MFA) en encryptie
 - Beveiligingsaudits en pentesten om kwetsbaarheden te detecteren
@@ -67,6 +68,7 @@ Verwachte voordelen:
 - Efficiëntere inzet van medewerkers, waardoor meer klanten bediend kunnen worden
 - Vermijding van GDPR-boetes door verbeterde controle en naleving
 - 90% vermindering van cyberaanvallen, wat aanzienlijke kostenbesparingen oplevert
+- Vermindering van 95% van de storingen als gevolg van redundantie.
 
 ### **5. Haalbaarheid en planning**  
 Het project wordt in drie fasen uitgevoerd:
