@@ -71,18 +71,18 @@ Verwachte voordelen:
 ### **5. Haalbaarheid en planning**  
 Het project wordt in drie fasen uitgevoerd:
 
-1. **Voorbereiding (0-2 maanden)**  
+1. **Voorbereiding (0-1 maanden)**  
    - Detailplanning en contractering externe partners  
    - Security-risicoanalyse en planning mitigatiemaatregelen  
    - Aankoop hardware en software  
    
-2. **Uitvoering (3-8 maanden)**  
+2. **Uitvoering (2-6 maanden)**  
    - Opzetten nieuwe infrastructuur in extern datacenter  
    - Installatie en configuratie netwerkcomponenten  
    - Datamigratie en testfase  
    - Uitrol hardware en VoIP-telefonie  
    
-3. **Optimalisatie & afronding (9-12 maanden)**  
+3. **Optimalisatie & afronding (7-9 maanden)**  
    - Eindvalidatie en performance-analyse  
    - Beveiligingsaudit en pentest  
    - Opleiding personeel en overdracht naar beheer  
