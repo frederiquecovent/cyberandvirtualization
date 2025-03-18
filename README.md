@@ -55,10 +55,18 @@ Verhoging ten opzichte van eerdere schatting vanwege extra security-maatregelen 
 | Pentest               | 1           | 7              | €180       | Externe specialist |
 | Aankoop divers        | -           | -              | -           | Laptops, tablets, VoIP, licenties |
 
-**Jaarlijkse terugkerende kosten:**  
-- Beheer extern datacenter  
-- Leasing netwerkapparatuur  
-- Security monitoring & audits  
+Jaarlijkse terugkerende kosten:
+- Beheer van het externe datacenter
+- Leasing van netwerkapparatuur
+- Security monitoring en regelmatige audits
+
+Verwachte voordelen:
+- Lagere energiekosten
+- 40% snellere doorlooptijd bij dossierafhandeling
+- Verhoogde tevredenheid van zowel personeel als klanten
+- Efficiëntere inzet van medewerkers, waardoor meer klanten bediend kunnen worden
+- Vermijding van GDPR-boetes door verbeterde controle en naleving
+- 90% vermindering van cyberaanvallen, wat aanzienlijke kostenbesparingen oplevert
 
 ### **5. Haalbaarheid en planning**  
 Het project wordt in drie fasen uitgevoerd:
