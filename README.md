@@ -116,16 +116,8 @@ Het voorgestelde project biedt een duurzame oplossing voor de IT-uitdagingen van
 - **Efficiëntie:** 40% snellere verwerking van dossiers
 - **Security:** Geen kritische kwetsbaarheden in post-implementatie audit
 
-### **9. PERT-analyse**  
-**Tijdsinschatting per activiteit:**  
-- Voorbereiding: 2 maanden  
-- Installatie datacenter: 2 maanden  
-- Netwerkinfrastructuur implementatie: 3 maanden  
-- Datamigratie: 2 maanden  
-- Test- en optimalisatiefase: 3 maanden  
-
 **Kritieke pad:**  
 Voorbereiding → Installatie datacenter → Netwerkinfrastructuur implementatie → Datamigratie → Test- en optimalisatiefase.  
 
-**Minimale projectduur:** 12 maanden (zonder onvoorziene vertragingen).
+**Minimale projectduur:** 9-12 maanden (zonder onvoorziene vertragingen).
 
