@@ -25,7 +25,7 @@ Het project heeft als doel een stabiele, veilige en efficiënte IT-infrastructuu
 - Vernieuwing van laptops en pc’s voor medewerkers
 - Aankoop van tablets voor dienstvoertuigen
 - Implementatie van VoIP-telefonie
-- Vernieuwing en leasing van intern netwerkapparatuur
+- Vernieuwing en leasing van intern netwerkapparatuur met toekomstgerichte migratie naar IPv6.
 - Migratie van Gmail naar Office 365
 - Implementatie van security-maatregelen zoals multifactor authenticatie (MFA) en encryptie
 - Beveiligingsaudits en pentesten om kwetsbaarheden te detecteren
