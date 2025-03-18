@@ -88,13 +88,17 @@ Het project wordt in drie fasen uitgevoerd:
    - Opleiding personeel en overdracht naar beheer  
 
 ### **6. Risicoanalyse en mitigerende maatregelen**  
-| Risico                                  | Impact  | Maatregel |
-|----------------------------------------|--------|-----------|
-| Vertraagde levering netwerkcomponenten | Hoog   | Alternatieve leveranciers identificeren |
-| Stijgende importkosten                 | Middel | Flexibel budget opnemen |
-| Onvoldoende WiFi-dekking               | Middel | Extra access points voorzien |
-| Dataverlies bij migratie                | Hoog   | Redundante back-ups en testmigraties |
-| Beperkte beschikbaarheid installateurs | Middel | Tijdige planning en contractafspraken |
+**Risico** | **Impact** | **Maatregel**  
+--- | --- | ---  
+Vertraagde levering netwerkcomponenten | Hoog | Alternatieve leveranciers identificeren  
+Stijgende importkosten | Middel | Flexibel budget opnemen  
+Onvoldoende WiFi-dekking | Middel | Extra access points voorzien  
+Dataverlies bij migratie | Hoog | Redundante back-ups en testmigraties  
+Beperkte beschikbaarheid installateurs | Middel | Tijdige planning en contractafspraken  
+Onvoorziene compatibiliteitsproblemen | Hoog | Uitgebreide tests en proefopstellingen uitvoeren  
+Beveiligingslekken door nieuwe systemen | Hoog | Regelmatige security-audits en patches toepassen  
+Weerstand bij personeel tegen nieuwe systemen | Middel | Training en begeleiding voorzien  
+Hogere operationele belasting tijdens transitie | Middel | Stapsgewijze implementatie en extra ondersteuning voorzien
 
 ### **7. Alternatieven**  
 Indien het project niet wordt uitgevoerd:
