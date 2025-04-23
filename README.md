@@ -123,3 +123,19 @@ Voorbereiding → Installatie datacenter → Netwerkinfrastructuur implementatie
 
 **Minimale projectduur:** 9-12 maanden (zonder onvoorziene vertragingen).
 
+
+
+
+| Functie                            | Aantal pers. | Geschatte dagen | Kostprijs Euro/uur | Wie? Wat?                                                                 |
+|-----------------------------------|--------------|------------------|---------------------|---------------------------------------------------------------------------|
+| Netwerk-architect                 | 1            | 5                | € 125,00            | Externe consultant                                                       |
+| Netwerk-ingenieur                | 1            | 35               | € 105,00            | Interne netwerkspecialist van het bedrijf                               |
+| Installateur bekabeling          | 2            | 15               | € 85,00             | Extern                                                                   |
+| Installateur PC/Laptops          | 1            | 3                | € 55,00             | Interne ICT-organisatie                                                  |
+| Projectopvolging                 | 2            | 8                | € 175,00            | IT-Manager, PM                                                           |
+| Testen door de business          |              | 8,1              | 310 Euro/dag        | 10% van de werktijd - meestal bedienden welke betrokken zijn bij de digitale omgeving |
+| Testen van de netwerkcomponenten | 1            | 16,2             |                     | 20% van de installatietijd                                               |
+| Project Manager                  | 1            | 26,325           |                     | 25% van de totale projecttijd                                            |
+| Aankoop diversen                 |              |                  |                     | Aankoop PC / Laptops / tablets / AP / licenties / racks / …             |
+
+
