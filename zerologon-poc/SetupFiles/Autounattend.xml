@@ -41,7 +41,7 @@
 					<InstallFrom>
 						<MetaData wcm:action="add">
 							<Key>/IMAGE/NAME</Key>
-							<Value>Windows Server 2019 Datacenter (Desktop Experience)</Value>
+							<Value>Windows Server 2019 Standard Evaluation (Desktop Experience)</Value>
 						</MetaData>
 					</InstallFrom>
 					<InstallTo>
@@ -91,10 +91,10 @@
 				<SynchronousCommand>
 					<Order>1</Order>
 					<Description>Run Domain Script</Description>
-					<CommandLine>powershell.exe -ExecutionPolicy Bypass -File D:\setup-domain.ps1</CommandLine>
+					<CommandLine>powershell.exe -ExecutionPolicy Bypass -File E:\setup-domain.ps1</CommandLine>
 				</SynchronousCommand>
 			</FirstLogonCommands>
 		</component>
 	</settings>
-	<cpi:offlineImage cpi:source="wim://sources/install.wim#Windows Server 2019 Datacenter (Desktop Experience)" />
+	<cpi:offlineImage cpi:source="wim://sources/install.wim#Windows Server 2019 Standard Evaluation (Desktop Experience)" />
 </unattend>
